@@ -1,0 +1,19 @@
+.nav1 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #666;
+    overflow: hidden;
+}
+
+li{
+    display: inline;
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #666;
+    color: black;
+}
